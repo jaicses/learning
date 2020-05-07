@@ -1,0 +1,94 @@
+Q- What is Git ?
+
+Ans- Git is version control system . Its a distributed plateform means same code can be stored on multiple servers on different locations
+     so that if one of the server goes down user can access the code using another server.
+
+
+Q- What is a repository in GIT ?
+
+Ans- Repository in GIT is place where we store our different versions of same file. which later on will be merged to the main file. 
+
+
+Q- What is the command you can use to write a commit message ?
+
+Ans- Command to write a commit message is    -m   "your message ".
+     Full command will be like this.
+	  Git commit -m "your message"
+
+
+Q- What is the function of ‘GIT PUSH’ in GIT?
+ 
+ Ans- GIT Push function is used to push your code from local repository to Git hub repository.
+ 
+ 
+Q- What is “Staging Area” or “Index” in GIT?
+
+Ans- Staging area is between your local folder & repository.
+
+
+Q- What is GIT stash?
+
+Ans- GIT stash is used to save the current state of a working directory just like taking snapshot of a state.
+
+
+
+Q-What is the function of git clone ?
+
+Ans- Git clone is used to clone Git hub repository to your local repository.
+
+Q- What is the function of ‘git config’?
+
+Ans- Git config is used to connect your local repository to Git Hub repository with the given configuration user.name & user.email id.
+
+Q- How can you create a repository in Git?
+
+Ans- To create a repository in Git  first create a local branch in your local repository  now checkout from your main branch to new branch & push that branch to Git hub using 
+     command (git push branch name)
+	 
+Q- What is the purpose of branching in GIT?
+
+Ans- Purpose of branching in Git is to multiple developer can work on same file , same project at same time without conflict.
+
+
+Q- What is the difference between ‘git remote’ and ‘git clone’?
+
+Ans- Git remote is to connect your local repository to git hub , & Git clone is to clone the git hub repository to local repository.
+
+
+Q- What is the function of ‘git diff ’ in git?
+
+Ans- Git diff is to check diff between two commits in git hub repository.
+
+
+Q- What is ‘git status’ is used for?
+
+Ans- Git status is used current status of your local repository whether there is any new file or changes to push.
+
+
+Q- What is the difference between the ‘git diff ’and ‘git status’?
+
+Ans- Git diff is to find the difference between two commits where git status is used to check status of your local repository.
+
+
+Q- What is the function of ‘git checkout’ in git?
+
+Ans- Git checkout is to switch from one branch to another branch in your local repository.
+
+
+Q- What is the function of ‘git rm’? 
+
+Ans- git rm  is used to remove file from your local repository.
+
+
+Q- What is the use of ‘git log’?
+
+Ans- git log is used to see all the git commands that is executed till now.
+
+
+Q- What is ‘git add’ is used for?
+
+Ans- git add is used to add file in git.
+
+
+
+
